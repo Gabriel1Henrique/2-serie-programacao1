@@ -1,0 +1,44 @@
+header {
+    background-color: aliceblue;
+    color:black;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.imagem-logo{
+        width: 50px;
+        height: 50px;
+        margin: 20px;
+        padding: 20px;
+
+    }
+    
+    .lista-cabeçalho {
+        display: flex;
+        
+    }
+    .imagem-colégio {
+        width: 20%;
+        height: 20%;
+
+    }
+     .escola {
+     background-image: linear-gradient(#0A1451,#7390ce);
+     color:white;
+     font-size: 21px;
+     padding: 300px 250px;
+
+     }   
+
+     .escola-div-conteudo {
+        width: 35%;
+     }
+     .escola-titulo {
+        padding: 24px 0;
+     }
+
+        
+    
