@@ -20,25 +20,26 @@ header {
         display: flex;
         
     }
+    .Escola {
+        background-image: linear-gradient(#0A1451,#7390CE);
+        color: white;
+        display: flex;
+    }
     .imagem-colégio {
         width: 20%;
         height: 20%;
-
     }
-     .escola {
-     background-image: linear-gradient(#0A1451,#7390ce);
-     color:white;
-     font-size: 21px;
-     padding: 300px 250px;
-
-     }   
-
      .escola-div-conteudo {
         width: 35%;
+     }
+     .escola {
+        background-image: linear-gradient(#804674, #D277C0);
+        color: white;
+        font-size: 21px;
+        padding: 300px 250px;
      }
      .escola-titulo {
         padding: 24px 0;
      }
-
         
     
