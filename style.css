@@ -1,5 +1,5 @@
 header {
-    background-color: aliceblue;
+    background-color: rgb(3, 36, 65);
     color:black;
     display:flex;
     justify-content: space-around;
@@ -18,25 +18,28 @@ header {
     
     .lista-cabeçalho {
         display: flex;
+        color: white;
+        font-size: 30px;
         
     }
     .Escola {
-        background-image: linear-gradient(#0A1451,#7390CE);
+        background-image: linear-gradient(#061052,#011133);
         color: white;
         display: flex;
     }
     .imagem-colégio {
-        width: 20%;
-        height: 20%;
+        width: 100%;
+        height: 100%;
     }
      .escola-div-conteudo {
-        width: 35%;
+        width: 100%;
      }
      .escola {
-        background-image: linear-gradient(#804674, #D277C0);
+        background-image: linear-gradient(#363636, #363636);
         color: white;
         font-size: 21px;
         padding: 300px 250px;
+        margin-top: 20px;
      }
      .escola-titulo {
         padding: 24px 0;
